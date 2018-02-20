@@ -1,6 +1,6 @@
 # QuizApp
 
-This is just a practice app for the <a href="https://www.udacity.com/google-scholarships">Google Developer Challenge Scholarship: Android Basics</a> I received for the Android Basics path. 
+This is just a practice app for the <a href="https://www.udacity.com/google-scholarships">Google Developer Challenge Scholarship: Android Basics</a> I received for the Android Basics path (Udacity courses ud836/nd803). 
 
 The requirements were to create a quiz layout with at least four different Views, and a method that verifies the answers and displays the final results in a Toast. I chose to present seven questions about movies, using free text answers, checkboxes, and radio buttons.
 
